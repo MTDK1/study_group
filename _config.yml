@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/study_group" # the subpath of your site, e.g. /blog
 url: "https://mtdk1.github.io/study_group" # the base hostname & protocol for your site, e.g. http://example.com
 production_url : https://mtdk1.github.io/study_group
-BASE_PATH : https://mtdk1.github.io/study_group/
+BASE_PATH : https://mtdk1.github.io/study_group
 twitter_username: koichi_matsuda
 github_username:  MTDK1
 
