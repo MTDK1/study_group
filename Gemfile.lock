@@ -3,6 +3,7 @@ PATH
   specs:
     jekyll-theme-slate (0.1.1)
       jekyll (> 3.5, < 5.0)
+      jekyll-feed (= 0.12.1)
       jekyll-seo-tag (~> 2.0)
 
 GEM
@@ -117,11 +118,8 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 3.0)
-  jekyll (~> 3.8.5)
-  jekyll-feed (~> 0.6)
   jekyll-theme-slate!
   rubocop (~> 0.50)
-  tzinfo-data
   w3c_validators (~> 1.3)
 
 BUNDLED WITH
