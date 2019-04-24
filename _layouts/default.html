@@ -33,6 +33,7 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
+      {% for post in site.posts %}
       <section id="main_content" class="inner">
         {% if post.outline %}
         <p>{{ post.outline }}</p>
@@ -40,6 +41,7 @@
         <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
         {% endif %}
       </section>
+      {% endfor %}
     </div>
 
     <!-- FOOTER  -->
