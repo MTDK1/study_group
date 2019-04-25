@@ -70,6 +70,25 @@ bootNodes は配列です。起動時に最初に接続しに行くノードを�
   },
 ```
 
+substrate/core/service/src/lib.rs
+
+```rust
+		// RPC
+		let system_info = rpc::apis::system::SystemInfo {
+			chain_name: config.chain_spec.name().into(),
+			impl_name: config.impl_name.into(),
+			impl_version: config.impl_version.into(),
+			properties: config.chain_spec.properties(),
+		};
+		let rpc = Components::RuntimeServices::start_rpc(
+			client.clone(), network.clone(), has_bootnodes, system_info, config.rpc_http,
+			config.rpc_ws, task_executor.clone(), transaction_pool.clone(),
+		)?;
+
+```
+rpc の初期化で使用されています。
+
+
 ```json
       "timestamp": {
         "minimumPeriod": 5
