@@ -326,7 +326,7 @@ KEY=//Sample
   --validator
 ```
 
-KEY=<Session アカウントの seed>
+KEY= Session アカウントの seed
 
 Session アカウントの 0x で始まる seed に置き換えます。
 
