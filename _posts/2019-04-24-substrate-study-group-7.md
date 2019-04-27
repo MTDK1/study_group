@@ -81,6 +81,7 @@ $ chmod u+x substrate *.sh
 このあと、報酬が得られるようにするために validator node の起動をしますが、
 validator の条件としてブロックが完全に同期されている必要があります。
 この記事を作成した時点でのブロック数は約 5 万で、約5分で同期します。
+
 > boot node は開発用で使用しているため、バージョンアップなどにより
 > 本記事の通りに実行しても接続できなる可能性があります。
 > 本ブログの新しい記事をご確認いただきますようお願い致します。
@@ -129,10 +130,12 @@ $ ./start_full.sh
 
 以下の項目を確認してください
 
-> Chain specification: B Devux Chain --Dev
-> Node name: SAMPLE
-> Roles: FULL
-> Syncing, target=#52593 (1 peers), best: #640 (0x4451…13c3), finalized #0 (0xd8da…3286), ⬇ 94.2kiB/s ⬆ 1.3kiB/s
+```bash
+Chain specification: B Devux Chain --Dev
+Node name: SAMPLE
+Roles: FULL
+Syncing, target=#52593 (1 peers), best: #640 (0x4451…13c3), finalized #0 (0xd8da…3286), ⬇ 94.2kiB/s ⬆ 1.3kiB/s
+```
 
 Node name は先に設定した任意の文字列になります。
 その後、同期（Syncing）が始まり、boot node が持つブロック数（target=#52593）が表示されます。
@@ -377,6 +380,7 @@ Stake したトークンは validator である間は動かすことができな
 Slack での情報交換や勉強会での交流などに是非ご参加ください。
 
 勉強会、Slack への招待リンクは下記をご覧ください。
+
 [第7回ブロックチェーン勉強会 Substrate でオリジナルブロックチェーンを作る - connpass](https://bdevux.connpass.com/event/128643/)
 
 次回勉強会は 2019/5/22 予定です。
