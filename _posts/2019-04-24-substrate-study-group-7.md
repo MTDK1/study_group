@@ -381,7 +381,7 @@ Slack での情報交換や勉強会での交流などに是非ご参加くだ�
 
 勉強会、Slack への招待リンクは下記をご覧ください。
 
-- [Home | Blockchain DevUx Group](https://bdevux.github.io/)
+- [Blockchain DevUx Group](https://bdevux.github.io/)
 - [第7回ブロックチェーン勉強会 Substrate でオリジナルブロックチェーンを作る - connpass](https://bdevux.connpass.com/event/128643/)
 
 次回勉強会は 2019/5/22 予定です。
