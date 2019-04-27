@@ -5,14 +5,14 @@ permalink: /about
 comments: false
 ---
 
-Koichi Matsuda - MTDK1
+## Koichi Matsuda - MTDK1
 
-- Facebook
-- Twitter
-- Github
+- [Facebook](https://www.facebook.com/kohichi.matsuda)
+- [Twitter](https://twitter.com/kouichi_matsuda)
+- [Github](https://github.com/MTDK1)
 
 ## Groups
 - [Blockchain Devux - connpass](https://bdevux.connpass.com/)
 - [Slack - Blockchain Study Group](https://blockchainstd.slack.com/join/shared_invite/enQtNDUzMDM1NzE4MjEzLWExZGEzMzUwMGM5MGIyMmJlZjFkNTZjYzFiZTVlNGI3MGIzMzU3MzZhZWQ5ZmI3NGM0ZDMwOWQxZDE1OTE3MmI)
 - Riot
-- Github
+- [Github](https://github.com/bdevux)
