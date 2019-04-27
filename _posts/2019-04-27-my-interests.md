@@ -9,11 +9,13 @@ featured: false
 hidden: true
 ---
 
-## Blockchain
+## Blockchain, Protocol
 
 - [Parity Substrate: Build Your Own Blockchain - Parity Technologies](https://www.parity.io/substrate/)
 - [Polkadot - The next-generation platform for connecting independent blockchains together](https://polkadot.network/)
 - [BigchainDB • • The blockchain database.](https://www.bigchaindb.com/)
+- [Ocean Protocol — A Decentralized Data Exchange Protocol to Unlock Data for AI](https://oceanprotocol.com/)
+- [Matrix.org](https://matrix.org/blog/home.html)
   
 ## Github
 
