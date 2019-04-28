@@ -21,6 +21,7 @@ hidden: true
 
 - [polkadot-js/apps: Basic Polkadot/Substrate UI for interacting with a node. This is the main user-facing application, allowing access to all features available on Substrate chains.](https://github.com/polkadot-js/apps)
 - [parity-samples/substrate-erc20: SAMPLE: Parity Substrate runtime implementation of ERC20 token standard.](https://github.com/parity-samples/substrate-erc20)
+- [Jekyll-mermaid](https://github.com/jasonbellamy/jekyll-mermaid)
 
 ## Rust
 
