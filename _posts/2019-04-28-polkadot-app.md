@@ -7,7 +7,7 @@ categories: [ Things of interest ]
 tags: [Things of interest, Substrate, Polkadot]
 description: "Things of interest"
 featured: false
-hidden: true
+hidden: false
 ---
 
 [Polkadot/Substrate Portal](https://polkadot.js.org/apps/#/explorer)

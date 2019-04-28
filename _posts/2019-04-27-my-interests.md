@@ -6,7 +6,7 @@ categories: [ Things of interest ]
 tags: [Things of interest]
 description: "Things of interest"
 featured: false
-hidden: true
+hidden: false
 ---
 
 ## Blockchain, Protocol
