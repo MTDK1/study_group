@@ -27,6 +27,7 @@ hidden: false
 
 - [Rustのパニック機構 - 簡潔なQ](https://qnighy.hatenablog.com/entry/2018/02/18/223000)
 
-## Web
+## Jekyll, Liquid
 
 - [Jekyll • Simple, blog-aware, static sites \ Transform your plain text into static websites and blogs](https://jekyllrb.com/)
+- [Liquid template language](https://shopify.github.io/liquid/)
