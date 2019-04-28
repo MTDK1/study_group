@@ -29,7 +29,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-archives
-    
+  - jekyll-mermaid
+
 # Archives
 jekyll-archives:
   enabled:
@@ -61,3 +62,8 @@ adsense: "disabled"
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+# Jekyll mermaid
+# https://github.com/jasonbellamy/jekyll-mermaid
+mermaid:
+  src: 'https://unpkg.com/mermaid@7.1.0/dist/mermaid.min.js'
