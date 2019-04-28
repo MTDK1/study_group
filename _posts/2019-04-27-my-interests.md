@@ -25,6 +25,7 @@ hidden: false
 
 ## Rust
 
+- [Rust programming language](https://www.rust-lang.org/)
 - [Rustのパニック機構 - 簡潔なQ](https://qnighy.hatenablog.com/entry/2018/02/18/223000)
 
 ## Jekyll, Liquid

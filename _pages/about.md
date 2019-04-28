@@ -10,6 +10,7 @@ comments: false
 - [Facebook](https://www.facebook.com/kohichi.matsuda)
 - [Twitter](https://twitter.com/kouichi_matsuda)
 - [Github](https://github.com/MTDK1)
+- [MTDK1 - Qiita](https://qiita.com/MTDK1)
 
 ## Groups
 - [Home - Blockchain DevUx Group](https://bdevux.github.io/)
