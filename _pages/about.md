@@ -6,7 +6,7 @@ comments: false
 ---
 
 ## Koichi Matsuda - MTDK1
-
+- [Thigs of interests](/study_group/categories#Things-of-interest)
 - [Facebook](https://www.facebook.com/kohichi.matsuda)
 - [Twitter](https://twitter.com/kouichi_matsuda)
 - [Github](https://github.com/MTDK1)
