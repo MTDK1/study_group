@@ -28,6 +28,10 @@ hidden: false
 - [Rust programming language](https://www.rust-lang.org/)
 - [Rustのパニック機構 - 簡潔なQ](https://qnighy.hatenablog.com/entry/2018/02/18/223000)
 
+## CI
+
+- [GitLab CIでテスト・ビルド・デプロイを自動化する - Qiita](https://qiita.com/bremen/items/f47f383b9931a840a25c)
+
 ## Jekyll, Liquid
 
 - [Jekyll • Simple, blog-aware, static sites \ Transform your plain text into static websites and blogs](https://jekyllrb.com/)
