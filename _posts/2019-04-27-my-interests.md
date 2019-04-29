@@ -20,7 +20,7 @@ hidden: false
 - [BigchainDB • • The blockchain database.](https://www.bigchaindb.com/)
 - [Ocean Protocol — A Decentralized Data Exchange Protocol to Unlock Data for AI](https://oceanprotocol.com/)
 - [Matrix.org](https://matrix.org/blog/home.html)
-- [トークンエコノミーとは？今話題の仮想通貨に紐づけて解説します！ | CoinOtaku（コインオタク）](https://coinotaku.com/?p=1145)
+- [トークンエコノミーとは？今話題の仮想通貨に紐づけて解説します！ ｜ CoinOtaku（コインオタク）](https://coinotaku.com/?p=1145)
   
 ## Github
 
