@@ -9,6 +9,10 @@ featured: false
 hidden: false
 ---
 
+このページは私が興味があることをリストにしています。気になったというだけでもリストにいれています。
+ちょっと調べてみて興味がなくなるということもありますが、まずはリストに追加していきます。
+自分用のメモです。
+
 ## Blockchain, Protocol
 
 - [Parity Substrate: Build Your Own Blockchain - Parity Technologies](https://www.parity.io/substrate/)
@@ -16,6 +20,7 @@ hidden: false
 - [BigchainDB • • The blockchain database.](https://www.bigchaindb.com/)
 - [Ocean Protocol — A Decentralized Data Exchange Protocol to Unlock Data for AI](https://oceanprotocol.com/)
 - [Matrix.org](https://matrix.org/blog/home.html)
+- [トークンエコノミーとは？今話題の仮想通貨に紐づけて解説します！ | CoinOtaku（コインオタク）](https://coinotaku.com/?p=1145)
   
 ## Github
 
