@@ -21,7 +21,11 @@ hidden: false
 - [Ocean Protocol — A Decentralized Data Exchange Protocol to Unlock Data for AI](https://oceanprotocol.com/)
 - [Matrix.org](https://matrix.org/blog/home.html)
 - [トークンエコノミーとは？今話題の仮想通貨に紐づけて解説します！ ｜ CoinOtaku（コインオタク）](https://coinotaku.com/?p=1145)
-  
+
+## Encryption
+
+- [暗号技術勉強メモ - Qiita](https://qiita.com/opengl-8080/items/85df520e2d8c4e19be8e)
+
 ## Github
 
 - [polkadot-js/apps: Basic Polkadot/Substrate UI for interacting with a node. This is the main user-facing application, allowing access to all features available on Substrate chains.](https://github.com/polkadot-js/apps)
