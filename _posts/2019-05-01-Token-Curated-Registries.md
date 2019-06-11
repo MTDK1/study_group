@@ -3,7 +3,7 @@ layout: post
 title:  "TCR - Token Curated Registries"
 author: mtdk1
 categories: [ Things of interest ]
-tags: [Things of interest]
+tags: [Things of interest, TCR]
 image: assets/images/TCR.svg
 description: ""
 featured: false
