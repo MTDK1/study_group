@@ -30,6 +30,14 @@ image: assets/images/TCR.svg
 - Substrateモジュール用の genesis config の使い方
 - ランタイムイベントを使用する方法とタイミング
 
+--
+- Step 1: [Setup and prerequisites]({{ site.baseurl }}{% post_url 2019-06-11-Building-the-Substrate-TCR-runtime-step1 %})
+- Step 2: [Module trait and types]({{ site.baseurl }}{% post_url 2019-06-11-Building-the-Substrate-TCR-runtime-step1 %})
+- Step 3: Declaring the runtime storage
+- Step 4: Declaring Events
+- Step 5: Module business logic
+
+
 ### 第2部： TCRモジュールの単体テスト
 
 - ランタイムをモックする方法
