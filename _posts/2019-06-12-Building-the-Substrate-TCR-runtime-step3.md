@@ -176,7 +176,7 @@ tcr: Some(TcrConfig {
 
 ここまでで ```decl_storage```マクロ内の config() が書かれたランタイムストレージアイテムすべての初期値を設定することができました。たとえば、デポジット額の最小値(min_deposit)は 100 で、この値はチェーンの起動直後から使用されるため、作成される新しいリストのデポジットはこの値で検証されます。
 
-[ここ](https://github.com/parity-samples/substrate-tcr/blob/master/src/chain_spec.rs){:target="_blank"} で ```chain_spec.rs``` を確認することができます。
+[ここ](https://github.com/substrate-developer-hub/substrate-tcr/blob/master/src/chain_spec.rs){:target="_blank"} で ```chain_spec.rs``` を確認することができます。
 
 これでストレージの宣言とセットアップに必要な作業は完了しました。
 
