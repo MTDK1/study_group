@@ -7,7 +7,7 @@ tags: [Substrate, TCR, Tutorial]
 description: "Substrate を使った TCR DApp チェーンチュートリアル"
 featured: false
 hidden: false
-toc: false
+toc: true
 image: assets/images/TCR.svg
 ---
 
