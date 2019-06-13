@@ -10,6 +10,8 @@ hidden: false
 toc: true
 image: assets/images/TCR.svg
 ---
+原文
+Part 1: [Building the Substrate TCR runtime](https://docs.substrate.dev/docs/building-the-substrate-tcr-runtime){:target="_blank"}
 
 目次：[Building a Token Curated Registry DAppChain using Substrate]({{ site.baseurl }}{% post_url 2019-06-11-Building-a-Token-Curated-Registry-DAppChain-using-Substrate %})
 
@@ -54,3 +56,15 @@ decl_event!(
 
 ここまででストレージ、genesis config そしてイベントの整理ができたので、ランタイムのビジネスロジックを実装に進むことができます。
 
+## 関連リンク
+
+- [Substrate Runtime Recipes](https://docs.substrate.dev/docs/substrate-runtime-recipes){:target="_blank"}
+- Part 1: [Building the Substrate TCR runtime](https://docs.substrate.dev/docs/building-the-substrate-tcr-runtime){:target="_blank"}
+- Part 2: [Unit testing the TCR runtime module](https://docs.substrate.dev/docs/unit-testing-the-tcr-runtime-module){:target="_blank"}
+- Part 3: [Building a UI for the TCR runtime](https://docs.substrate.dev/docs/building-a-ui-for-the-tcr-runtime){:target="_blank"}
+- Part 4: [Building an event based off-chain storage](https://docs.substrate.dev/docs/building-an-event-based-off-chain-storage){:target="_blank"}
+- Part 5: [Best Practices](https://docs.substrate.dev/docs/tcr-tutorial-best-practices){:target="_blank"}
+- [Creating a Custom Substrate chain](https://docs.substrate.dev/docs/creating-a-custom-substrate-chain){:target="_blank"}
+- [Substrate Collectables Tutorial](https://substrate-developer-hub.github.io/substrate-collectables-workshop/#/){:target="_blank"}
+- [Explain like I’m 5: Token Curated Registries – Gautam Dhameja](https://www.gautamdhameja.com/token-curated-registries-explain-eli5-a5d4cce0ddbe/){:target="_blank"}
+- [Token-Curated Registries 1.0 – Mike Goldin – Medium](https://medium.com/@ilovebagels/token-curated-registries-1-0-61a232f8dac7){:target="_blank"}
