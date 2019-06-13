@@ -34,7 +34,7 @@ image: assets/images/TCR.svg
 - Step 1: [Setup and prerequisites]({{ site.baseurl }}{% post_url 2019-06-11-Building-the-Substrate-TCR-runtime-step1 %})
 - Step 2: [Module trait and types]({{ site.baseurl }}{% post_url 2019-06-11-Building-the-Substrate-TCR-runtime-step1 %})
 - Step 3: [Declaring the runtime storage]({{ site.baseurl }}{% post_url 2019-06-12-Building-the-Substrate-TCR-runtime-step3 %})
-- Step 4: Declaring Events
+- Step 4: [Declaring Events]({{ site.baseurl }}{% post_url 2019-06-13-Building-the-Substrate-TCR-runtime-step4 %})
 - Step 5: Module business logic
 
 
