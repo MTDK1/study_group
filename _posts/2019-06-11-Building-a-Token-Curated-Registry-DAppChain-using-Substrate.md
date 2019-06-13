@@ -5,7 +5,7 @@ author: mtdk1
 categories: [ Substrate ]
 tags: [Substrate, TCR, Tutorial]
 description: "Substrate を使った TCR DApp チェーンチュートリアル"
-featured: false
+featured: true
 hidden: false
 toc: false
 image: assets/images/TCR.svg
@@ -35,7 +35,7 @@ image: assets/images/TCR.svg
 - Step 2: [Module trait and types]({{ site.baseurl }}{% post_url 2019-06-11-Building-the-Substrate-TCR-runtime-step1 %})
 - Step 3: [Declaring the runtime storage]({{ site.baseurl }}{% post_url 2019-06-12-Building-the-Substrate-TCR-runtime-step3 %})
 - Step 4: [Declaring Events]({{ site.baseurl }}{% post_url 2019-06-13-Building-the-Substrate-TCR-runtime-step4 %})
-- Step 5: Module business logic
+- Step 5: [Module business logic]({{ site.baseurl }}{% post_url 2019-06-13-Building-the-Substrate-TCR-runtime-step5 %})
 
 
 ### 第2部： TCRモジュールの単体テスト
