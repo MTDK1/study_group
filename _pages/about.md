@@ -18,3 +18,4 @@ comments: false
 - [Slack - Blockchain Study Group](https://blockchainstd.slack.com/join/shared_invite/enQtNDUzMDM1NzE4MjEzLWExZGEzMzUwMGM5MGIyMmJlZjFkNTZjYzFiZTVlNGI3MGIzMzU3MzZhZWQ5ZmI3NGM0ZDMwOWQxZDE1OTE3MmI)
 - Riot
 - [Github](https://github.com/bdevux)
+- 
