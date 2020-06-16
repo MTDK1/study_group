@@ -5,7 +5,7 @@ author: mtdk1
 categories: [ プログラミング入門 ]
 tags: [アルゴリズム, Python, プログラミング、フローチャート]
 image: assets/images/algorithm.png
-description: "json ファイルを修正するだけでオリジナルブロックチェーンを作る。"
+description: "基本的なアルゴリズムを学習を通してプログラミングの学習をする"
 featured: false
 hidden: false
 toc: true
