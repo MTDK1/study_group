@@ -6,7 +6,6 @@ categories: [ Substrate, StudyGroup ]
 tags: [Substrate, BDevUx]
 image: assets/images/20190423001.jpg
 description: "ブロックチェーン開発勉強会 渋谷で毎月開催"
-featured: true
 hidden: false
 rating: 0
 ---

@@ -5,7 +5,6 @@ author: mtdk1
 categories: [ Substrate ]
 tags: [Substrate, TCR, Tutorial]
 description: "Substrate を使った TCR DApp チェーンチュートリアル"
-featured: true
 hidden: false
 toc: false
 image: assets/images/TCR.svg
