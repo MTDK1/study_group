@@ -66,4 +66,4 @@ exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 # Jekyll mermaid
 # https://github.com/jasonbellamy/jekyll-mermaid
 mermaid:
-  src: 'https://unpkg.com/mermaid@7.1.0/dist/mermaid.min.js'
+  src: 'https://unpkg.com/mermaid@8.6.2/dist/mermaid.min.js'
