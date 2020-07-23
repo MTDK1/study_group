@@ -73,7 +73,7 @@ mermaid: true
 # プログラム
 
 ```rust
-ffn main() {
+fn main() {
 
     let mut list = vec![4, 3, 1, 9, 2, 6, 5, 8, 7];
     println!("{:?}", list);

@@ -18,7 +18,7 @@ mermaid: false
 - [フィボナッチ数列を求めるプログラムを作る]({{ site.baseurl }}{% post_url 2020-07-21-200721Fibonacci_number %})
 - [素数を判定するプログラムを作る]({{ site.baseurl }}{% post_url 2020-07-21-200721primenumber %})
 - [線形探索プログラムを作る]({{ site.baseurl }}{% post_url 2020-07-22-linear_search %})
-- 二分探索
+- [二分探索]({{ site.baseurl }}{% post_url 2020-07-23-binary_search %})
 - 木構造での探索
 - 迷路の探索
 - [選択ソートプログラムを作る]({{ site.baseurl }}{% post_url 2020-07-23-selection_sort %})
