@@ -12,6 +12,10 @@ toc: true
 mermaid: true
 ---
 
+目次：[プログラミング学習]({{ site.baseurl }}{% post_url 2020-07-23-list_programming %})
+
+---
+
 今回のプログラミング学習はフィボナッチ数列を作るプログラムを作ります。
 
 # フィボナッチ数列

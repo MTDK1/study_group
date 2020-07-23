@@ -12,6 +12,10 @@ toc: true
 mermaid: true
 ---
 
+目次：[プログラミング学習]({{ site.baseurl }}{% post_url 2020-07-23-list_programming %})
+
+---
+
 今回のプログラミング学習は線形探索をするプログラムを作ります。
 
 # 線形探索
