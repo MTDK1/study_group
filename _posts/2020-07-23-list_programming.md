@@ -21,7 +21,7 @@ mermaid: false
 - [二分探索]({{ site.baseurl }}{% post_url 2020-07-23-binary_search %})
 - [二分探索木 - 構造 -]({{ site.baseurl }}{% post_url 2020-07-29-binary_tree_01 %})
 - [二分探索木 - 挿入 -]({{ site.baseurl }}{% post_url 2020-07-29-binary_tree_02 %})
-- 二分探索木 - 探索 -
+- [二分探索木 - 探索 -]({{ site.baseurl }}{% post_url 2020-07-30-binary_tree_03 %})
 - 二分探索木 - 削除 -
 - 木構造での探索
 - 迷路の探索
