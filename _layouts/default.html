@@ -19,7 +19,10 @@
     <link href="{{ site.baseurl }}/assets/css/main.css" rel="stylesheet">
 
     <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-
+    {% if page.vivus == true %}
+    {% include vivus.html %}
+    {% endif %}
+    
 </head>
 
 {% if jekyll.environment == 'production' %}
