@@ -26,7 +26,7 @@ mermaid: false
 - 木構造での探索
 - 迷路の探索
 - [選択ソートプログラムを作る]({{ site.baseurl }}{% post_url 2020-07-23-selection_sort %})
-- 挿入ソート
+- [挿入ソート]({{ site.baseurl }}{% post_url 2020-08-02-insertion_sort_01 %})
 - バブルソート
 - ヒープソート
 - マージソート
