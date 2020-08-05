@@ -28,6 +28,7 @@ mermaid: false
 - [選択ソートプログラムを作る]({{ site.baseurl }}{% post_url 2020-07-23-selection_sort %})
 - [挿入ソート]({{ site.baseurl }}{% post_url 2020-08-02-insertion_sort_01 %})
 - [バブルソート]({{ site.baseurl }}{% post_url 2020-08-03-bubble_sort %})
+- [ヒープ（二分ヒープ）]({{ site.baseurl }}{% post_url 2020-08-04-binary_heap %})
 - ヒープソート
 - マージソート
 - クイックソート
