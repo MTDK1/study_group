@@ -16,6 +16,8 @@ mermaid: true
 
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WmSR5WOlwFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # 構造
 
 二分木ヒープを作るために、まずは木の構造を作ります。今回は構造体は作らずに配列のまま考えていきます。
@@ -164,3 +166,56 @@ fn main() {
 
 - [ヒープをわかりやすく解説してみた. 基本的なデータ構造であるヒープについて、概要、計算量と実装、そして最もシンプルな… \| by Yasufumi TANIGUCHI \| Medium](https://medium.com/@yasufumy/data-structure-heap-ecfd0989e5be)
 
+# ソート
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-NlrBdGWraE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+```rust
+
+fn min_heapify(list: &mut Vec<u32>, i: usize, length: usize) {
+    let left = 2 * i + 1;
+    let right = 2 * i + 2;
+    let mut smallest = i;
+
+    if left < length && list[left] < list[i] {
+        smallest = left
+    }
+    if right < length && list[right] < list[smallest] {
+        smallest = right
+    }
+    if smallest != i {
+        swap(list, i, smallest);
+        min_heapify(list, smallest, length)
+    }
+}
+
+fn build_min_heap(list: &mut Vec<u32>, length: usize) {
+    for i in (0..(length) / 2).rev() {
+        min_heapify(list, i, length);
+    }
+}
+
+fn swap(list: &mut Vec<u32>, index_1: usize, index_2: usize) {
+    let tmp = list[index_2];
+    list[index_2] = list[index_1];
+    list[index_1] = tmp;
+}
+
+fn heap_sort(list: &mut Vec<u32>) {
+    build_min_heap(list, list.len());
+    for j in (0..(list.len())).rev() {
+        swap(list, 0, j);
+        build_min_heap(list, j);
+    }
+}
+
+fn main() {
+    let mut list = [12, 8, 9, 1, 3, 6, 7, 5, 10, 4, 2, 11].to_vec();
+    println!("list: {:?}", list);
+    heap_sort(&mut list);
+    println!("sort: {:?}", list);
+
+    let v: Vec<_> = (1 .. =12).rev().map(u32::from).collect();
+    assert_eq!(list, v);
+}
+```
