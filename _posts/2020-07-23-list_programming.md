@@ -23,15 +23,21 @@ mermaid: false
 - [二分探索木 - 挿入 -]({{ site.baseurl }}{% post_url 2020-07-29-binary_tree_02 %})
 - [二分探索木 - 探索 -]({{ site.baseurl }}{% post_url 2020-07-30-binary_tree_03 %})
 - [二分探索木 - 削除 -]({{ site.baseurl }}{% post_url 2020-07-31-binary_tree_04 %})
-- 木構造での探索
 - 迷路の探索
 - [選択ソートプログラムを作る]({{ site.baseurl }}{% post_url 2020-07-23-selection_sort %})
 - [挿入ソート]({{ site.baseurl }}{% post_url 2020-08-02-insertion_sort_01 %})
 - [バブルソート]({{ site.baseurl }}{% post_url 2020-08-03-bubble_sort %})
-- [ヒープ（二分ヒープ）]({{ site.baseurl }}{% post_url 2020-08-04-binary_heap %})
-- ヒープソート
+- [ヒープソート]({{ site.baseurl }}{% post_url 2020-08-04-binary_heap %})
 - マージソート
-- クイックソート
+- [クイックソート]({{ site.baseurl }}{% post_url 2020-08-17-quick_sort %})
+- シェーカーソート
+- コムソート
+- ノームソート
+- シェルソート
+- 図書館ソート
+- イントロソート
+- 奇遇転置ソート
+- シェアソート
 - 最短経路問題
 - ベルマン・フォード法
 - ダイクストラ法
