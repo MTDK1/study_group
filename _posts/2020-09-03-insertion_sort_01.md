@@ -3,7 +3,7 @@ layout: post
 title:  "挿入ソート"
 author: mtdk1
 categories: [ プログラミング入門, アルゴリズム ]
-tags: [Rust]
+tags: [Rust, Swift]
 description: "プログラミング入門 - 挿入を実装してみよう"
 image: assets/images/3205369_s2.jpg
 featured: false

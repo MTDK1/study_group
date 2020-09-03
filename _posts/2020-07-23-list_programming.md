@@ -31,7 +31,7 @@ mermaid: false
 - マージソート
 - [クイックソート]({{ site.baseurl }}{% post_url 2020-08-17-quick_sort %})
 - [シェーカーソート]({{ site.baseurl }}{% post_url 2020-08-19-shaker_sort %})
-- コムソート
+- [コムソート]({{ site.baseurl }}{% post_url 2020-09-03-comb_sort %})
 - ノームソート
 - シェルソート
 - 図書館ソート
