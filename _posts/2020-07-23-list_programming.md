@@ -25,12 +25,12 @@ mermaid: false
 - [二分探索木 - 削除 -]({{ site.baseurl }}{% post_url 2020-07-31-binary_tree_04 %})
 - 迷路の探索
 - [選択ソートプログラムを作る]({{ site.baseurl }}{% post_url 2020-07-23-selection_sort %})
-- [挿入ソート]({{ site.baseurl }}{% post_url 2020-08-02-insertion_sort_01 %})
+- [挿入ソート]({{ site.baseurl }}{% post_url 2020-09-03-insertion_sort_01 %})
 - [バブルソート]({{ site.baseurl }}{% post_url 2020-08-03-bubble_sort %})
 - [ヒープソート]({{ site.baseurl }}{% post_url 2020-08-04-binary_heap %})
 - マージソート
 - [クイックソート]({{ site.baseurl }}{% post_url 2020-08-17-quick_sort %})
-- シェーカーソート
+- [シェーカーソート]({{ site.baseurl }}{% post_url 2020-08-19-shaker_sort %})
 - コムソート
 - ノームソート
 - シェルソート

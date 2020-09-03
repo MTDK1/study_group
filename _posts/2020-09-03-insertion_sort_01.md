@@ -60,7 +60,7 @@ mermaid: true
 ![Fig.6]({{site.baseurl}}/assets/images/insertion_sort/insertion_sort006.svg)
 {: refdef}
 
-# コード
+# コード(rust)
 
 ```rust
 fn insertion_sort(list: &mut [i32]) {
@@ -110,3 +110,33 @@ $ cargo run
 
 
 
+# コード(Swift)
+
+```swift
+public func insertionSort(_ array: inout [Int]) {
+     // 1個目の要素を整列済みとし、２個目の要素（要素番号1）から開始
+       for i in 1..<array.count {
+           var k = i;
+           
+           // 要素 i より左にある要素と比較、挿入先を探す
+           for j in (0..<i).reversed() {
+               if array[i] < array[j] {
+                   k = j;
+               } else if array[k] < array[i] {
+                   break;
+               }
+           }
+           
+           if k != i {
+               // 配列から要素iを削除
+               // 削除した要素をkに挿入
+               array.insert(array.remove(at: i), at: k)
+           }
+       }
+}
+```
+
+
+
+[変更履歴]
+- 2020/09/03: Swift コードを追加しました
